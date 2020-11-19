@@ -1,1 +1,7 @@
-
+<template>
+    <lightning-card>
+     <div class="p1" > Hello World</div>
+     <div class="p2" > This is my first Lightning Web Component</div>
+     <div class="p3" > i'm so excited to be part of this Bootcamp</div>
+   </lightning-card>
+ </template>
